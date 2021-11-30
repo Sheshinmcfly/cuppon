@@ -1,0 +1,40 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+i {
+    font-size: x-small;
+}
+
+i span{
+    font-size: small;
+}
+
+.bg-color-green {
+    background-color: #28A745;
+}
+
+.text-green {
+    color: #28A745 !important;
+}
+
+.bg-color-title {
+    color: #212529;
+}
+
+.bg-color-text {
+    color: #707070;
+}
+
+nav img, footer img {
+    width: 5.375rem;
+    height: 1.563rem;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
