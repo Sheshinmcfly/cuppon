@@ -6,7 +6,7 @@ i {
     font-size: x-small;
 }
 
-i span{
+i span {
     font-size: small;
 }
 
@@ -35,6 +35,10 @@ nav img, footer img {
     font-weight: 300;
 }
 
-.fw-500 {
-    font-weight: 500;
+
+
+@media (min-width: 768px) {
+    .wd-50 {
+        width: 50%;
+    }
 }
